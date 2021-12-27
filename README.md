@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-- 🔭 I’m currently working on projects to fit a run into your life, not life into your run
+- 🔭 I’m currently working on projects to fit a run into your life
 - 🌱 I’m currently learning computer science fundamentals, Python, HTML, CSS, Javascript, SQL
 - 🤔 I’m looking for help
 - ⚡ Fun fact: 
